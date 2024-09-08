@@ -1,0 +1,33 @@
+h3{
+    font-size: 30px;
+    color: lawngreen;
+}#one{
+    position: relative;
+}
+#two{
+   position: absolute;
+   top: 105px;
+   left: 580px;
+}#three{
+    position: absolute;
+    top: 105px;
+    left: 748px;
+}#seconds,#hours,#minutes{
+    margin-top: -20px;
+    font-size: 90px;
+    color: rgb(157, 157, 247);
+}#header{
+    text-align: center;
+    color: rgb(15, 224, 224);
+}#date{
+    text-align: center;
+    color: lawngreen;
+}#milliseconds{
+    margin-left: 100px;
+    position: fixed;
+    color: lawngreen;
+}#container{
+    margin-left: 420px;
+}body{
+    background-color: black;
+}
